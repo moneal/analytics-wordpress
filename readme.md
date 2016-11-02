@@ -1,5 +1,6 @@
-Analytics for WordPress — by Segment
+Analytics for WordPress 
 ====================================
+[![Build Status](https://travis-ci.org/alpineio/analytics-wordpress.svg?branch=master)](https://travis-ci.org/alpineio/analytics-wordpress)
 
 > **NOTE**: Official support from Segment for this plugin is **deprecated**. We are currently looking for community maintainers. The current version of this plugin should be free of bugs but any existing and future development will be paused for the time being. We recommend exploring and using third party alternatives. If you have any questions or have interest in stewarding the Segment Wordpress plugin, please send us an email at friends@segment.com!
 
